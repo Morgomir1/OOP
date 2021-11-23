@@ -1,0 +1,393 @@
+21.11.2021 09:03:03.548 [main] INFO   game.Game - Menu created
+21.11.2021 09:03:14.073 [main] INFO   game.Game - Menu created
+21.11.2021 09:24:51.658 [main] INFO   game.Game - Menu created
+21.11.2021 09:24:54.514 [main] INFO   game.Game - Game started
+21.11.2021 09:24:54.515 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:24:58.561 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 09:24:58.562 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:25:04.594 [main] INFO   s.GameContext - Saves directory C:\ВГУ\OOP\SeaBattleProject\saves was made
+21.11.2021 09:25:04.595 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\zhopa.json was made
+21.11.2021 09:25:04.657 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:26:32.279 [main] INFO   game.Game - Menu created
+21.11.2021 09:26:40.656 [main] INFO   game.Game - Menu created
+21.11.2021 09:26:48.267 [main] INFO   game.Game - Menu created
+21.11.2021 09:26:51.077 [main] INFO   game.Game - Menu created
+21.11.2021 09:27:32.856 [main] INFO   game.Game - Menu created
+21.11.2021 09:27:38.624 [main] INFO   game.Game - Can not read save file. Error: Unrecognized field "numberOfShips" (class field.Field), not marked as ignorable (one known property: "batteField"])
+ at [Source: (File); line: 1, column: 45] (through reference chain: serialize.GameContext["firstPlayerBattleField"]->field.Field["numberOfShips"])
+21.11.2021 09:27:38.625 [main] INFO   game.Game - Menu created
+21.11.2021 09:28:01.608 [main] INFO   game.Game - Menu created
+21.11.2021 09:28:15.053 [main] INFO   game.Game - Can not read save file. Error: Unrecognized field "numberOfShips" (class field.Field), not marked as ignorable (one known property: "batteField"])
+ at [Source: (File); line: 1, column: 45] (through reference chain: serialize.GameContext["firstPlayerBattleField"]->field.Field["numberOfShips"])
+21.11.2021 09:28:15.056 [main] INFO   game.Game - Menu created
+21.11.2021 09:28:16.932 [main] INFO   game.Game - Menu created
+21.11.2021 09:29:22.353 [main] INFO   game.Game - Can not read save file. Error: Unrecognized field "numberOfShips" (class field.Field), not marked as ignorable (one known property: "batteField"])
+ at [Source: (File); line: 1, column: 45] (through reference chain: serialize.GameContext["firstPlayerBattleField"]->field.Field["numberOfShips"])
+21.11.2021 09:29:22.356 [main] INFO   game.Game - Menu created
+21.11.2021 09:37:06.321 [main] INFO   game.Game - Menu created
+21.11.2021 09:38:33.204 [main] INFO   game.Game - Game started
+21.11.2021 09:38:33.205 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:38:35.224 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 09:38:35.225 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:38:42.217 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\lube.json was made
+21.11.2021 09:38:42.310 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:38:49.724 [main] INFO   game.Game - Menu created
+21.11.2021 09:38:55.074 [main] INFO   game.Game - Can not read save file. Error: Unrecognized field "numberOfShips" (class field.Field), not marked as ignorable (one known property: "batteField"])
+ at [Source: (File); line: 1, column: 46] (through reference chain: serialize.GameContext["firstPlayerBattleField"]->field.Field["numberOfShips"])
+21.11.2021 09:38:55.075 [main] INFO   game.Game - Menu created
+21.11.2021 09:47:53.197 [main] INFO   game.Game - Menu created
+21.11.2021 09:51:30.639 [main] INFO   game.Game - Menu created
+21.11.2021 09:51:32.810 [main] INFO   game.Game - Game started
+21.11.2021 09:51:32.810 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:51:37.730 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\anal.json was made
+21.11.2021 09:51:37.801 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:51:44.850 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 09:51:44.856 [main] INFO   game.Game - Menu created
+21.11.2021 09:51:53.438 [main] INFO   game.Game - Can not read save file. Error: Unrecognized field "numberOfShips" (class field.Field), not marked as ignorable (one known property: "batteField"])
+ at [Source: (File); line: 1, column: 46] (through reference chain: serialize.GameContext["firstPlayerBattleField"]->field.Field["numberOfShips"])
+21.11.2021 09:51:53.440 [main] INFO   game.Game - Menu created
+21.11.2021 10:41:23.154 [main] INFO   game.Game - Menu created
+21.11.2021 10:41:26.822 [main] INFO   game.Game - Game started
+21.11.2021 10:41:33.392 [main] WARN   field.Field - Wrong ship name!
+21.11.2021 10:54:42.929 [main] INFO   game.Game - Menu created
+21.11.2021 10:54:47.043 [main] INFO   game.Game - Game started
+21.11.2021 11:11:14.159 [main] INFO   game.Game - Menu created
+21.11.2021 11:11:16.823 [main] INFO   game.Game - Game started
+21.11.2021 11:13:24.407 [main] INFO   game.Game - Menu created
+21.11.2021 11:13:26.491 [main] INFO   game.Game - Game started
+21.11.2021 11:13:50.469 [main] INFO   field.Field - Ship placed!
+21.11.2021 11:14:06.770 [main] INFO   game.Game - Menu created
+21.11.2021 11:14:10.298 [main] INFO   game.Game - Game started
+21.11.2021 11:14:23.434 [main] INFO   field.Field - Ship placed!
+21.11.2021 11:14:34.845 [main] INFO   game.Game - Menu created
+21.11.2021 11:14:37.547 [main] INFO   game.Game - Game started
+21.11.2021 11:15:24.230 [main] INFO   field.Field - Ship placed!
+21.11.2021 11:20:12.838 [main] INFO   game.Game - Menu created
+21.11.2021 11:20:14.947 [main] INFO   game.Game - Game started
+21.11.2021 11:20:24.420 [main] INFO   field.Field - Ship placed!
+21.11.2021 11:21:14.702 [main] INFO   game.Game - Menu created
+21.11.2021 11:21:16.792 [main] INFO   game.Game - Game started
+21.11.2021 11:21:37.564 [main] INFO   game.Game - Menu created
+21.11.2021 11:21:39.363 [main] INFO   game.Game - Game started
+21.11.2021 11:21:45.945 [main] INFO   field.Field - Ship placed!
+21.11.2021 11:23:06.360 [main] INFO   game.Game - Menu created
+21.11.2021 11:23:08.158 [main] INFO   game.Game - Game started
+21.11.2021 11:23:25.163 [main] INFO   game.Game - Menu created
+21.11.2021 11:23:27.412 [main] INFO   game.Game - Game started
+21.11.2021 11:23:51.725 [main] ERROR  field.Field - Wrong parameters!
+21.11.2021 11:26:08.601 [main] INFO   game.Game - Menu created
+21.11.2021 11:26:18.910 [main] INFO   game.Game - Game started
+21.11.2021 11:26:26.465 [main] WARN   field.Field - Wrong direction! Must be g/v
+21.11.2021 11:29:06.319 [main] INFO   game.Game - Menu created
+21.11.2021 11:29:08.901 [main] INFO   game.Game - Game started
+21.11.2021 11:29:19.365 [main] ERROR  field.Field - Ship cords is out of battle field! Try again:
+21.11.2021 11:29:19.366 [main] ERROR  field.Field - Ship cords is out of battle field! Try again:
+21.11.2021 11:30:57.205 [main] INFO   game.Game - Menu created
+21.11.2021 11:31:22.748 [main] INFO   game.Game - Menu created
+21.11.2021 11:31:24.745 [main] INFO   game.Game - Game started
+21.11.2021 11:31:31.832 [main] ERROR  field.Field - Ship cords is out of battle field! Try again:
+21.11.2021 11:31:31.833 [main] ERROR  field.Field - Ship cords is out of battle field! Try again:
+21.11.2021 11:32:32.664 [main] INFO   game.Game - Menu created
+21.11.2021 11:32:35.541 [main] INFO   game.Game - Game started
+21.11.2021 11:32:41.722 [main] ERROR  field.Field - Ship cords is out of battle field! Try again:
+21.11.2021 11:32:53.889 [main] WARN   field.Field - Cannot place ship here!
+21.11.2021 12:22:59.609 [main] INFO   game.Game - Menu created
+21.11.2021 12:23:22.939 [main] INFO   game.Game - Menu created
+21.11.2021 12:23:28.447 [main] INFO   game.Game - Game started
+21.11.2021 12:23:28.448 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:23:36.091 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy.json was made
+21.11.2021 12:25:20.534 [main] INFO   game.Game - Menu created
+21.11.2021 12:25:25.456 [main] INFO   game.Game - Can not read save file. Error: No content to map due to end-of-input
+ at [Source: (File); line: 1, column: 0]
+21.11.2021 12:25:25.456 [main] INFO   game.Game - Menu created
+21.11.2021 12:26:14.243 [main] INFO   game.Game - Menu created
+21.11.2021 12:27:15.981 [main] INFO   game.Game - Can not read save file. Error: No content to map due to end-of-input
+ at [Source: (File); line: 1, column: 0]
+21.11.2021 12:27:15.981 [main] INFO   game.Game - Menu created
+21.11.2021 12:33:44.366 [main] INFO   game.Game - Menu created
+21.11.2021 12:34:08.501 [main] INFO   game.Game - Game started
+21.11.2021 12:34:08.501 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:34:11.833 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 12:34:11.833 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:34:20.096 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy.json was made
+21.11.2021 12:34:52.484 [main] INFO   game.Game - Menu created
+21.11.2021 12:34:57.444 [main] INFO   game.Game - Can not read save file. Error: No content to map due to end-of-input
+ at [Source: (File); line: 1, column: 0]
+21.11.2021 12:34:57.445 [main] INFO   game.Game - Menu created
+21.11.2021 12:35:11.204 [main] INFO   game.Game - Game started
+21.11.2021 12:35:11.205 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:35:14.202 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 12:35:14.203 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:36:06.832 [main] INFO   game.Game - Menu created
+21.11.2021 12:36:15.152 [main] INFO   game.Game - Game started
+21.11.2021 12:36:15.154 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:36:16.517 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 12:36:16.518 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:40:08.138 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\van.json was made
+21.11.2021 12:41:11.951 [main] INFO   game.Game - Menu created
+21.11.2021 12:41:14.819 [main] INFO   game.Game - Game started
+21.11.2021 12:41:14.819 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:41:18.400 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\1.json was made
+21.11.2021 12:48:03.808 [main] INFO   game.Game - Menu created
+21.11.2021 12:48:06.151 [main] INFO   game.Game - Game started
+21.11.2021 12:48:11.650 [main] INFO   field.Field - SaveName is not founded
+21.11.2021 12:49:36.720 [main] INFO   game.Game - Menu created
+21.11.2021 12:49:43.684 [main] INFO   game.Game - Can not read save file. Error: No content to map due to end-of-input
+ at [Source: (File); line: 1, column: 0]
+21.11.2021 12:49:43.684 [main] INFO   game.Game - Menu created
+21.11.2021 12:49:48.625 [main] INFO   game.Game - Game started
+21.11.2021 12:49:56.862 [main] INFO   field.Field - Ship placed!
+21.11.2021 12:49:56.868 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\DESTROYER.json was made
+21.11.2021 12:51:10.655 [main] INFO   game.Game - Menu created
+21.11.2021 12:51:34.584 [main] INFO   game.Game - Menu created
+21.11.2021 12:51:46.981 [main] INFO   game.Game - Game started
+21.11.2021 12:51:56.568 [main] INFO   field.Field - Ship placed!
+21.11.2021 12:53:34.958 [main] INFO   game.Game - Menu created
+21.11.2021 12:53:36.746 [main] INFO   game.Game - Game started
+21.11.2021 12:53:49.380 [main] INFO   field.Field - Ship placed!
+21.11.2021 12:53:53.635 [main] INFO   field.Field - SaveName is not founded
+21.11.2021 12:53:53.638 [main] INFO   field.Field - Battle field completed
+21.11.2021 12:53:57.136 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\van.json was made
+21.11.2021 12:56:47.609 [main] INFO   game.Game - Menu created
+21.11.2021 12:56:50.121 [main] INFO   game.Game - Game started
+21.11.2021 12:56:58.776 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\123.json was made
+21.11.2021 12:57:37.054 [main] INFO   game.Game - Menu created
+21.11.2021 12:58:06.369 [main] INFO   game.Game - Menu created
+21.11.2021 12:58:08.206 [main] INFO   game.Game - Game started
+21.11.2021 12:58:08.207 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 12:58:30.882 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\1234.json was made
+21.11.2021 12:58:53.120 [main] INFO   game.Game - Menu created
+21.11.2021 12:58:55.496 [main] INFO   game.Game - Game started
+21.11.2021 12:58:55.498 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 12:58:57.501 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 13:00:19.283 [main] INFO   game.Game - Menu created
+21.11.2021 13:00:21.282 [main] INFO   game.Game - Game started
+21.11.2021 13:00:21.284 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:00:22.313 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 13:00:22.314 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:00:26.870 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\12345.json was made
+21.11.2021 13:00:30.919 [main] INFO   game.Game - Menu created
+21.11.2021 13:00:37.415 [main] INFO   game.Game - Game started
+21.11.2021 13:00:37.416 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:00:52.162 [main] INFO   game.Game - Menu created
+21.11.2021 13:00:54.356 [main] INFO   game.Game - Game started
+21.11.2021 13:00:54.357 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:09:25.328 [main] INFO   game.Game - Menu created
+21.11.2021 13:09:39.527 [main] INFO   game.Game - Game started
+21.11.2021 13:09:39.527 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:10:32.970 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\1234567.json was made
+21.11.2021 13:13:32.829 [main] INFO   game.Game - Menu created
+21.11.2021 13:13:36.845 [main] INFO   game.Game - Game started
+21.11.2021 13:13:36.846 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:13:40.596 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 13:13:40.596 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 13:13:44.188 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\ggg.json was made
+21.11.2021 15:26:29.067 [main] INFO   game.Game - Menu created
+21.11.2021 15:26:33.172 [main] INFO   game.Game - Menu created
+21.11.2021 15:26:36.757 [main] INFO   game.Game - Game started
+21.11.2021 15:26:36.762 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:26:40.807 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 15:26:40.807 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:26:44.514 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\11222.json was made
+21.11.2021 15:26:52.167 [main] INFO   game.Game - Menu created
+21.11.2021 15:27:30.556 [main] INFO   game.Game - Can not read save file. Error: No content to map due to end-of-input
+ at [Source: (File); line: 1, column: 0]
+21.11.2021 15:27:30.556 [main] INFO   game.Game - Menu created
+21.11.2021 15:32:35.922 [main] INFO   game.Game - Menu created
+21.11.2021 15:32:59.105 [main] INFO   game.Game - Game started
+21.11.2021 15:32:59.115 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:33:04.007 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy.json was made
+21.11.2021 15:37:53.198 [main] INFO   game.Game - Menu created
+21.11.2021 15:37:58.746 [main] INFO   game.Game - Game started
+21.11.2021 15:37:58.750 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:38:04.424 [main] INFO   game.Game - Players are switched
+21.11.2021 15:38:04.424 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:38:13.464 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:38:23.424 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:38:33.064 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:38:40.374 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:39:38.424 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 15:39:38.424 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 15:39:43.024 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\van.json was made
+21.11.2021 15:42:20.888 [main] INFO   game.Game - Menu created
+21.11.2021 15:43:03.986 [main] INFO   game.Game - Menu created
+21.11.2021 15:43:06.808 [main] INFO   game.Game - Game started
+21.11.2021 15:43:06.809 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:43:11.513 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 15:43:11.513 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:43:16.176 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\c++.json was made
+21.11.2021 15:44:08.787 [main] INFO   game.Game - Menu created
+21.11.2021 15:44:12.653 [main] INFO   game.Game - Game started
+21.11.2021 15:44:12.662 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:44:25.367 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 15:44:25.367 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:44:27.472 [main] INFO   game.Game - Menu created
+21.11.2021 15:46:39.582 [main] INFO   game.Game - Menu created
+21.11.2021 15:47:04.481 [main] INFO   game.Game - Menu created
+21.11.2021 15:47:06.722 [main] INFO   game.Game - Game started
+21.11.2021 15:47:06.727 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:47:08.532 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 15:47:08.532 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:47:11.742 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\sfdfdsfds.json was made
+21.11.2021 15:56:25.590 [main] INFO   game.Game - Menu created
+21.11.2021 15:56:50.449 [main] INFO   game.Game - Game started
+21.11.2021 15:56:50.459 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 15:58:39.359 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billyHeringhton.json was made
+21.11.2021 16:08:19.996 [main] INFO   game.Game - Menu created
+21.11.2021 16:08:24.716 [main] INFO   game.Game - Game started
+21.11.2021 16:08:24.726 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 16:08:26.576 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 16:08:26.576 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 16:08:32.046 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\mr.van.json was made
+21.11.2021 16:09:07.046 [main] INFO   game.Game - Menu created
+21.11.2021 16:09:09.406 [main] INFO   game.Game - Game started
+21.11.2021 16:09:09.416 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 16:09:13.486 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\mr.billy.json was made
+21.11.2021 18:09:48.020 [main] INFO   game.Game - Menu created
+21.11.2021 18:11:45.671 [main] INFO   game.Game - Menu created
+21.11.2021 18:11:49.295 [main] INFO   game.Game - Game started
+21.11.2021 18:11:49.296 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:11:52.090 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 18:11:52.091 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:11:59.407 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billySkavenghton.json was made
+21.11.2021 18:14:28.494 [main] INFO   game.Game - Menu created
+21.11.2021 18:14:37.575 [main] INFO   game.Game - Game started
+21.11.2021 18:14:37.577 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:14:40.816 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\fdfdf.json was made
+21.11.2021 18:23:51.270 [main] INFO   game.Game - Menu created
+21.11.2021 18:26:47.781 [main] INFO   game.Game - Menu created
+21.11.2021 18:26:50.156 [main] INFO   game.Game - Game started
+21.11.2021 18:26:50.158 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:26:54.939 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\ddfdhhgffh.json was made
+21.11.2021 18:53:02.534 [main] INFO   game.Game - Menu created
+21.11.2021 18:53:12.593 [main] INFO   game.Game - Game started
+21.11.2021 18:53:12.594 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:53:17.963 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\bbb.json was made
+21.11.2021 18:58:51.437 [main] INFO   game.Game - Menu created
+21.11.2021 18:59:02.451 [main] INFO   game.Game - Game started
+21.11.2021 18:59:02.452 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 18:59:06.424 [main] INFO   game.Game - Players are switched
+21.11.2021 18:59:06.424 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 18:59:09.592 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 18:59:09.592 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 18:59:12.614 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\ggg.json was made
+21.11.2021 19:00:14.160 [main] INFO   game.Game - Menu created
+21.11.2021 19:00:17.683 [main] INFO   game.Game - Game started
+21.11.2021 19:00:17.683 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:00:20.184 [main] INFO   game.Game - SaveName is not founded
+21.11.2021 19:00:20.185 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:00:23.226 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\fdfdsf.json was made
+21.11.2021 19:03:27.888 [main] INFO   game.Game - Menu created
+21.11.2021 19:03:30.777 [main] INFO   game.Game - Game started
+21.11.2021 19:03:30.778 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:03:34.812 [main] INFO   game.Game - Players are switched
+21.11.2021 19:03:34.813 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:03:54.338 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy.json was made
+21.11.2021 19:08:04.369 [main] INFO   game.Game - Menu created
+21.11.2021 19:08:06.850 [main] INFO   game.Game - Menu created
+21.11.2021 19:08:09.445 [main] INFO   game.Game - Game started
+21.11.2021 19:08:09.446 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:08:12.274 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\dfgdfgfdg.json was made
+21.11.2021 19:22:54.008 [main] INFO   game.Game - Menu created
+21.11.2021 19:22:56.403 [main] INFO   game.Game - Game started
+21.11.2021 19:22:56.403 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:23:04.292 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\van.json was made
+21.11.2021 19:23:04.504 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:25:57.078 [main] INFO   game.Game - Menu created
+21.11.2021 19:26:02.281 [main] INFO   game.Game - Game started
+21.11.2021 19:26:02.281 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:26:07.696 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\andjsadsfyurhgireggiashhdubvfd.json was made
+21.11.2021 19:26:45.044 [main] INFO   game.Game - Menu created
+21.11.2021 19:27:03.688 [main] INFO   game.Game - Game started
+21.11.2021 19:27:03.688 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:27:07.298 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\eghdfjhguifgdhgdif.json was made
+21.11.2021 19:32:39.910 [main] INFO   game.Game - Menu created
+21.11.2021 19:32:41.950 [main] INFO   game.Game - Game started
+21.11.2021 19:32:41.950 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:32:46.028 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\fdgfwytehuijok.json was made
+21.11.2021 19:32:46.102 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:34:44.761 [main] INFO   game.Game - Menu created
+21.11.2021 19:36:42.856 [main] INFO   game.Game - Menu created
+21.11.2021 19:36:44.486 [main] INFO   game.Game - Game started
+21.11.2021 19:36:44.486 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:36:48.711 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy!!!.json was made
+21.11.2021 19:36:48.787 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:36:53.719 [main] INFO   game.Game - Menu created
+21.11.2021 19:37:00.037 [main] INFO   game.Game - Game started
+21.11.2021 19:37:00.037 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:37:14.170 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:37:19.681 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:37:22.467 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:50:17.316 [main] INFO   game.Game - Menu created
+21.11.2021 19:50:24.725 [main] INFO   game.Game - Game started
+21.11.2021 19:50:24.726 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:50:34.475 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:50:52.637 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:51:06.157 [main] INFO   game.Game - Menu created
+21.11.2021 19:51:09.107 [main] INFO   game.Game - Game started
+21.11.2021 19:51:09.107 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:51:21.631 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:51:37.207 [main] INFO   game.Game - Menu created
+21.11.2021 19:51:40.157 [main] INFO   game.Game - Game started
+21.11.2021 19:51:40.158 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:52:34.550 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:52:42.469 [main] INFO   game.Game - Menu created
+21.11.2021 19:52:44.363 [main] INFO   game.Game - Game started
+21.11.2021 19:52:44.363 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:52:50.551 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:53:02.393 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:53:08.762 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\vanDeep.json was made
+21.11.2021 19:53:08.849 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:53:18.551 [main] INFO   game.Game - Menu created
+21.11.2021 19:53:26.732 [main] INFO   game.Game - Game started
+21.11.2021 19:53:26.732 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:53:36.102 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:53:41.458 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:54:04.106 [main] INFO   game.Game - Menu created
+21.11.2021 19:54:07.170 [main] INFO   game.Game - Game started
+21.11.2021 19:54:07.171 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:54:32.422 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:02.917 [main] INFO   game.Game - Menu created
+21.11.2021 19:55:05.821 [main] INFO   game.Game - Demo started
+21.11.2021 19:55:05.821 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:10.827 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:10.828 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:55:15.839 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:15.839 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:20.845 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:20.845 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:55:25.856 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:25.856 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:30.858 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:30.858 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:55:35.865 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:35.865 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:40.868 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 19:55:45.869 [main] INFO   game.Game - Players are switched
+21.11.2021 19:55:45.869 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:55:50.882 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 19:55:55.895 [main] INFO   game.Game - Menu created
+21.11.2021 19:56:48.660 [main] INFO   game.Game - Game started
+21.11.2021 19:56:48.661 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:00:41.146 [main] INFO   game.Game - Menu created
+21.11.2021 20:00:43.458 [main] INFO   game.Game - Demo started
+21.11.2021 20:00:43.458 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 20:00:48.467 [main] INFO   game.Game - Players are switched
+21.11.2021 20:00:48.468 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:00:53.480 [main] INFO   game.Game - Players are switched
+21.11.2021 20:00:53.481 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 20:00:58.493 [main] INFO   game.Game - Players are switched
+21.11.2021 20:00:58.493 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:01:03.511 [main] INFO   game.Game - Players are switched
+21.11.2021 20:01:03.511 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 20:01:08.527 [main] INFO   game.Game - Players are switched
+21.11.2021 20:01:08.527 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:01:13.533 [main] INFO   game.Game - Players are switched
+21.11.2021 20:01:13.533 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 20:01:18.542 [main] INFO   game.Game - Player number 1 turn
+21.11.2021 20:01:23.556 [main] INFO   game.Game - Players are switched
+21.11.2021 20:01:23.556 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:01:28.564 [main] INFO   game.Game - Player number 2 turn
+21.11.2021 20:01:33.575 [main] INFO   game.Game - Menu created
+21.11.2021 20:01:36.613 [main] INFO   game.Game - Game started
+21.11.2021 20:01:36.613 [main] INFO   game.Game - Player number 2 turn

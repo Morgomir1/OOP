@@ -1,0 +1,10 @@
+strike 1 2
+strike 2 2
+strike 4 2
+strike 6 2
+strike 1 5
+strike 7 5
+strike 3 5
+strike 1 9
+strike 7 1
+stop

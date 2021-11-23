@@ -1,0 +1,85 @@
+22.11.2021 06:11:01.292 [main] INFO   game.Game - Menu created
+22.11.2021 06:11:06.352 [main] INFO   game.Game - Game started
+22.11.2021 06:11:06.353 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:11.523 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\van.json was made
+22.11.2021 06:11:11.616 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:15.626 [main] INFO   game.Game - Menu created
+22.11.2021 06:11:18.684 [main] INFO   game.Game - Game started
+22.11.2021 06:11:18.684 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:25.967 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:34.092 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:38.526 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:11:52.644 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:12:22.610 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:12:26.554 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:12:32.490 [main] INFO   s.GameContext - Save file C:\ВГУ\OOP\SeaBattleProject\saves\billy.json was made
+22.11.2021 06:12:32.497 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:12:36.471 [main] INFO   game.Game - Menu created
+22.11.2021 06:12:40.662 [main] INFO   game.Game - Game started
+22.11.2021 06:12:40.663 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 06:13:20.988 [main] INFO   game.Game - Menu created
+22.11.2021 06:13:25.356 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:13.402 [main] INFO   game.Game - Menu created
+22.11.2021 09:12:15.762 [main] INFO   game.Game - Game started
+22.11.2021 09:12:15.763 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:19.928 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:23.181 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:26.157 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:31.745 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 09:12:36.393 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:14:07.071 [main] INFO   game.Game - Menu created
+22.11.2021 11:14:08.628 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:15:33.069 [main] INFO   game.Game - Menu created
+22.11.2021 11:15:45.960 [main] INFO   game.Game - Menu created
+22.11.2021 11:15:47.686 [main] INFO   game.Game - Game started
+22.11.2021 11:15:47.687 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:15:48.987 [main] INFO   game.Game - Menu created
+22.11.2021 11:15:50.555 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:16:12.534 [main] INFO   game.Game - Menu created
+22.11.2021 11:16:14.215 [main] INFO   game.Game - Game started
+22.11.2021 11:16:14.215 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:16:15.850 [main] INFO   game.Game - Menu created
+22.11.2021 11:16:17.269 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:16:31.906 [main] INFO   game.Game - Menu created
+22.11.2021 11:16:34.731 [main] INFO   game.Game - Game started
+22.11.2021 11:16:34.731 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:16:39.059 [main] INFO   game.Game - Menu created
+22.11.2021 11:18:14.000 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:20:04.016 [main] INFO   game.Game - Menu created
+22.11.2021 11:20:06.058 [main] INFO   game.Game - Game started
+22.11.2021 11:20:44.465 [main] INFO   game.Game - Menu created
+22.11.2021 11:20:46.631 [main] INFO   game.Game - Game started
+22.11.2021 11:20:52.089 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 11:21:27.092 [main] INFO   game.Game - Menu created
+22.11.2021 11:21:28.962 [main] INFO   game.Game - Game started
+22.11.2021 11:23:48.520 [main] INFO   game.Game - Menu created
+22.11.2021 11:23:52.422 [main] INFO   game.Game - Game started
+22.11.2021 11:35:53.754 [main] INFO   game.Game - Menu created
+22.11.2021 11:35:58.667 [main] INFO   game.Game - Game started
+22.11.2021 11:36:15.597 [main] INFO   game.Game - Menu created
+22.11.2021 11:36:17.237 [main] INFO   game.Game - Game started
+22.11.2021 11:36:17.237 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:36:23.281 [main] INFO   game.Game - Players are switched
+22.11.2021 11:36:23.282 [main] INFO   game.Game - Player number 2 turn
+22.11.2021 11:37:18.931 [main] INFO   game.Game - Menu created
+22.11.2021 11:37:20.601 [main] INFO   game.Game - Game started
+22.11.2021 11:37:20.601 [main] INFO   game.Game - Player number 1 turn
+22.11.2021 11:37:23.683 [main] INFO   game.Game - Players are switched
+22.11.2021 11:37:23.684 [main] INFO   game.Game - Player number 2 turn
+22.11.2021 12:41:49.144 [main] INFO   game.Game - Menu created
+22.11.2021 12:42:12.936 [main] INFO   game.Game - Menu created
+22.11.2021 12:42:14.732 [main] INFO   game.Game - Game started
+22.11.2021 12:42:24.100 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:42:42.930 [main] WARN   field.ShipsField - Cannot place ship here!
+22.11.2021 12:42:54.893 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:43:56.286 [main] INFO   game.Game - Menu created
+22.11.2021 12:44:08.552 [main] INFO   game.Game - Game started
+22.11.2021 12:44:13.796 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:44:25.366 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:55:56.827 [main] INFO   game.Game - Menu created
+22.11.2021 12:55:59.080 [main] INFO   game.Game - Game started
+22.11.2021 12:56:07.964 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:56:19.825 [main] INFO   field.ShipsField - Ship placed!
+22.11.2021 12:57:43.276 [main] INFO   game.Game - Menu created
+22.11.2021 12:57:57.231 [main] INFO   game.Game - Game started
+22.11.2021 12:58:01.638 [main] INFO   field.ShipsField - Ship placed!
